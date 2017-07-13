@@ -5,5 +5,4 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
 
-words: "She,I"
-
+words: "I,You,He,She,It"
